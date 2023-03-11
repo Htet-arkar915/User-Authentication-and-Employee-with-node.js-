@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: grid;
+  background-color: #000;
+  color: #fff;
+  font-size: 30px;
+  min-height: 100vh;
+  place-content: center;
+}
+img{
+  width: 80%;
+  height: 80%;
+}

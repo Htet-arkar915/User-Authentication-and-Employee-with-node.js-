@@ -1,0 +1,61 @@
+20230304	08:55:07	5e19c6b9-8ffb-4588-bca5-6604a5bbcf40	event log emitted
+20230304	08:55:13	8fcaccf1-0829-4e0f-bee8-b10e90d9d624	event log emitted
+20230304	09:10:42	ab82ac4e-0892-4cc1-95b1-eb290888e0a1	event log emitted
+20230304	09:13:36	bc1cc0d5-c71a-4495-baa8-9d4e4d528d44	event log emitted
+20230304	09:18:07	d478162e-0e8c-4c6c-90e0-e3bff70d5ccd	event log emitted
+20230306	16:00:05	655808e4-0e1a-45a1-8e2a-2eae5eb3e1ef	undefined : Not allowed by CORS
+20230307	10:39:44	0c4fb7a8-9722-4c8d-b5fe-6e78f25205f0	undefined : Unexpected token } in JSON at position 15
+20230307	10:40:00	72891b66-7b57-46d6-95fc-3e8fe10a087b	undefined : Unexpected token } in JSON at position 13
+20230307	10:40:24	f6ad5fe9-15f3-485a-895a-e3098c570520	undefined : Unexpected token } in JSON at position 13
+20230307	10:41:15	d0c17b99-50f7-4799-b00c-34c2b40ff7b6	undefined : Unexpected token } in JSON at position 13
+20230307	10:44:12	e1cf6b06-4677-465a-a90a-08579bc9d5ad	undefined : Unexpected token } in JSON at position 13
+20230307	10:45:03	834d8e9c-c1a7-4df0-844c-fa0460e0a7d7	undefined : Unexpected token } in JSON at position 13
+20230307	10:45:05	265e2630-342c-4954-b9b3-1762adb830a8	undefined : Unexpected token } in JSON at position 13
+20230307	10:45:05	8a22f8d8-c503-4b22-93b5-f49acad9da85	undefined : Unexpected token } in JSON at position 13
+20230307	10:45:05	40ebdae8-56b4-4c0a-b0fe-0ca9da15160c	undefined : Unexpected token } in JSON at position 13
+20230307	10:45:05	72331e57-2644-4869-b076-4afb2fc1c5eb	undefined : Unexpected token } in JSON at position 13
+20230307	10:45:06	6e5a232a-f940-44f7-b250-445e9c0c2314	undefined : Unexpected token } in JSON at position 13
+20230307	10:45:06	d8595c91-c25a-4083-a3da-bd397ba95a9e	undefined : Unexpected token } in JSON at position 13
+20230307	10:53:16	571926b6-0fc9-4b44-b4a5-2435d17af903	undefined : Unexpected token } in JSON at position 13
+20230307	10:53:18	e2a55e4d-5b13-474a-901d-cd31102517ca	undefined : Unexpected token } in JSON at position 13
+20230307	10:53:18	f6645c06-581d-4690-87a0-31cdefa8e674	undefined : Unexpected token } in JSON at position 13
+20230307	11:35:08	3ea91bd5-5551-4250-b2ba-ea7f4a811bf8	undefined : Unexpected token } in JSON at position 13
+20230308	08:47:15	f5a5d7ad-81a2-4b37-860d-d4911e3babd8	undefined : Unexpected token } in JSON at position 15
+20230308	08:49:06	26bd0961-4bcc-465b-92e4-81da7bee250f	undefined : Unexpected token } in JSON at position 15
+20230308	08:52:09	ef9763d3-828b-47e5-9deb-bd0a1edc1071	undefined : Unexpected token } in JSON at position 13
+20230308	08:52:22	a6990a63-7c25-4764-be5f-d7cd8e1a7c6a	undefined : Unexpected token } in JSON at position 13
+20230308	08:52:23	ebd92cd8-70b2-45df-9e59-42efcc4f6b96	undefined : Unexpected token } in JSON at position 13
+20230308	08:52:23	0c9a5c65-77a3-434c-915e-d585e2705249	undefined : Unexpected token } in JSON at position 13
+20230308	08:52:24	0ce22aef-9d16-4d67-87bc-110fde510f90	undefined : Unexpected token } in JSON at position 13
+20230308	08:52:48	f6e5d88f-8474-4607-a249-f9f746aebfd0	undefined : Unexpected token } in JSON at position 13
+20230308	08:53:07	9c1b6560-89ad-4d4a-adc9-eb6945a1920e	undefined : Cannot read properties of undefined (reading 'id')
+20230308	08:53:39	967ec8d5-e436-4719-a756-3b1bf6fcbb75	undefined : Cannot read properties of undefined (reading 'id')
+20230308	08:54:21	22ff8a6e-ed00-4b57-bbec-a729fab7a3fd	undefined : Cannot read properties of undefined (reading 'id')
+20230308	08:54:26	c4f1e5a6-ec02-4309-bde6-2aec17fe6df6	undefined : Cannot read properties of undefined (reading 'id')
+20230308	08:56:21	70198fd7-e53d-4051-b8ef-dfdaa1a72dd4	undefined : Cannot read properties of undefined (reading 'id')
+20230308	08:56:28	495644ec-7d26-4a99-a651-926129ca5b67	undefined : Cannot read properties of undefined (reading 'id')
+20230308	09:14:47	23d92e0d-62a2-41ad-a165-b71974f7501d	undefined : Cannot read properties of undefined (reading 'id')
+20230308	11:17:55	8f590e5c-0245-419e-b841-0c4974dea78b	undefined : Cannot read properties of undefined (reading 'id')
+20230308	11:18:02	223de562-3893-4a40-a57e-e9a944062f1b	undefined : Cannot read properties of undefined (reading 'id')
+20230308	11:18:08	744aa7d4-7ca8-425e-8eab-58763c141c84	undefined : Cannot read properties of undefined (reading 'id')
+20230308	11:21:02	ba769c9a-580b-4ab4-9b73-c538b252375b	undefined : Cannot read properties of undefined (reading 'id')
+20230308	11:21:08	9c926832-1027-4cfc-b4b8-d4dbb86f1e18	undefined : Cannot read properties of undefined (reading 'id')
+20230308	11:21:32	6d20e177-2ae6-4bb2-b909-b62e554b4bd8	undefined : Cannot read properties of undefined (reading 'id')
+20230309	09:21:46	9b7f9bb1-10cc-493e-b414-50a8ff844933	undefined : res.setStatus is not a function
+20230309	09:22:53	2e414815-c0a6-4ffc-b1d6-43e4186d0159	undefined : res.setStatus is not a function
+20230309	09:23:01	7ca22da1-22d6-40b7-a241-bf5f088fdb24	undefined : res.setStatus is not a function
+20230309	09:23:04	61b126a2-dc4a-4aeb-83df-f72a21ebd36e	undefined : res.setStatus is not a function
+20230309	09:24:55	5cc9d3e3-756d-42da-b35e-da9839526900	undefined : res.setStatus is not a function
+20230309	10:44:47	118a61c3-e2fc-422d-a933-1ae5370ee811	undefined : cookie is not defined
+20230309	10:45:31	c7874371-bba6-4922-9771-ac6f7c9f9b78	undefined : cookie is not defined
+20230309	10:45:33	5ea0c450-1f98-4e8c-b471-f4cb5b18948d	undefined : cookie is not defined
+20230309	10:45:33	746ca650-3cae-4a40-a3e9-101039bb2eb3	undefined : cookie is not defined
+20230309	10:45:34	4e4a9825-78c5-40c8-b4fe-4aeb604e05b7	undefined : cookie is not defined
+20230309	10:45:35	fc57b4c8-a859-4276-bcfb-b23b0176a20e	undefined : cookie is not defined
+20230311	09:14:27	4e1b57f4-a16e-423c-bce6-1a92e7234c72	undefined : authHeader?.starysWith is not a function
+20230311	09:21:26	e683cbd9-9d3c-4d4b-ae24-a90430ed7165	undefined : Unexpected token } in JSON at position 13
+20230311	09:29:12	ef11d372-c7d8-4566-a399-f26c27f92e33	undefined : Unexpected token } in JSON at position 13
+20230311	09:31:15	8364ab58-6f88-4ccc-a868-23c2de7d4fe6	undefined : Unexpected token } in JSON at position 13
+20230311	09:44:26	8d40f7d0-1297-43c2-a368-d6f76591d16a	undefined : val is not defined
+20230311	09:47:02	70ae0f1c-5967-4407-94ce-61dbc00e8ff0	undefined : Unexpected token } in JSON at position 13
+20230311	09:47:14	47c4bc19-ea88-4b47-8df0-d0138bf6f2c7	undefined : Unexpected token } in JSON at position 13
